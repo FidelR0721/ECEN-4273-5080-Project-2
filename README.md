@@ -11,11 +11,11 @@ The objects that the program can recognize are listed below:
 #For the program to recognize the previously mentioned objects, the program had to be trained with images of the listed objects. 
 #Roboflow was used to annotate images and find existing datasets to help train our program. Our final dataset contained 6625 images. 
 #When the training was done, our program displayed the accuracy values of the objects; the values are listed below:
-  * Pikachu  
-  * Drones
-  * Cats
-  * Dogs
-  * People
+  * Pikachu:  96.3%
+  * Drones:  95%
+  * Cats:  91%
+  * Dogs:  78.9%
+  * People:  92.8%
 
 #Afterwards, the program tested the accuracy by taking various images and outputting the images with a bounding box. 
 #In the output image, the class's name and accuracy value are displayed at the top right of the bounding box. 
@@ -27,10 +27,12 @@ Listed below are the output images of all of the objects from our program
 2) Drones
    
 3) Cats
+   ![image](https://github.com/FidelR0721/ECEN-4273-5080-Project-2/assets/112107662/e149debc-f954-4591-9dbe-18fd453de32c)
 
-4) Dogs
 
-5) People
+5) Dogs
+
+6) People
 
 ***Acessing the Program*** 
 #Our program was created in a google colab Notobook, and the link the link to the notebook is listed below:
