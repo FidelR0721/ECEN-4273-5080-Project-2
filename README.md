@@ -18,7 +18,7 @@ The objects that the program can recognize are listed below:
   * People
 
 #Afterwards, the program tested the accuracy by taking various images and outputting the images with a bounding box. 
-# In the output image, the class's name and accuracy value are displayed at the top right of the bounding box. 
+#In the output image, the class's name and accuracy value are displayed at the top right of the bounding box. 
 
 ***Examples*** 
 Listed below are the output images of all of the objects from our program 
