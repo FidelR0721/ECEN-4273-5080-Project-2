@@ -34,6 +34,7 @@ Listed below are the output images of all of the objects from our program
 
 
 5) Dogs
+   
    ![image](https://github.com/FidelR0721/ECEN-4273-5080-Project-2/assets/112107662/24685b21-c5f8-4ca3-8b80-8e048c166fd5)
 
 
