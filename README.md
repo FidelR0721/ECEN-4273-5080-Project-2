@@ -16,6 +16,7 @@ The objects that the program can recognize are listed below:
   * Cats:  91%
   * Dogs:  78.9%
   * People:  92.8%
+  * Average: ~91%
 
 #Afterwards, the program tested the accuracy by taking various images and outputting the images with a bounding box. 
 #In the output image, the class's name and accuracy value are displayed at the top right of the bounding box. 
