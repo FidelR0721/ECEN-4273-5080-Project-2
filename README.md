@@ -35,8 +35,9 @@ Listed below are the output images of all of the objects from our program
 7) People:  ![image](https://github.com/FidelR0721/ECEN-4273-5080-Project-2/assets/112107662/24e807e8-26fe-4e5e-a12a-643f655185dd)
 
 
-***Acessing the Program*** 
-#Our program was created in a google colab Notebook. The link is listed below:
+***Accessing the Program*** 
+#Our program was created in a Google Colab Notebook. The link is listed below:
 https://colab.research.google.com/drive/1ejXQTeLv7aI43_x8RM8YYHgGoCQ20EeW
 
-
+#Also, a copy of the Google Colab Notebook is uploaded to this GitHub repository. 
+#In the Google Colab Notebook, we have the required graphs. 
