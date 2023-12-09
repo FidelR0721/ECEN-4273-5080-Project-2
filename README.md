@@ -16,7 +16,7 @@ The objects that the program can recognize are listed below:
   * Cats:  91%
   * Dogs:  78.9%
   * People:  92.8%
-  * Average: 91%
+  * Average: ~91%
 
 #Afterwards, the program tested the accuracy by taking various images and outputting the images with a bounding box. 
 #In the output image, the class's name and accuracy value are displayed at the top right of the bounding box. 
@@ -24,13 +24,13 @@ The objects that the program can recognize are listed below:
 ***Examples*** 
 Listed below are the output images of all of the objects from our program 
 
+1) Pikachu:  ![image](https://github.com/FidelR0721/ECEN-4273-5080-Project-2/assets/112107662/c998d3c7-e5be-44d4-b9e8-2f13b31f364a)
+
 2) Drones:  ![image](https://github.com/FidelR0721/ECEN-4273-5080-Project-2/assets/112107662/ca33600c-863a-4697-8fba-9e45dc83a005)
    
 3) Cats:    ![image](https://github.com/FidelR0721/ECEN-4273-5080-Project-2/assets/112107662/e149debc-f954-4591-9dbe-18fd453de32c)
 
 5) Dogs:    ![image](https://github.com/FidelR0721/ECEN-4273-5080-Project-2/assets/112107662/24685b21-c5f8-4ca3-8b80-8e048c166fd5)
-   
-1) Pikachu:  ![image](https://github.com/FidelR0721/ECEN-4273-5080-Project-2/assets/112107662/c998d3c7-e5be-44d4-b9e8-2f13b31f364a)
    
 7) People:  ![image](https://github.com/FidelR0721/ECEN-4273-5080-Project-2/assets/112107662/24e807e8-26fe-4e5e-a12a-643f655185dd)
 
