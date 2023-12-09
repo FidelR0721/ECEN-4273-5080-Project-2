@@ -7,9 +7,9 @@ The objects that the program can recognize are listed below:
   * Dogs
   * People
 
-#The project was done in Google Collab, as anyone in the group can access and modify the code at any time. 
-#For the program to recognize the previously mentioned objects, the program had to be trained with images of the listed objects. 
-#Roboflow was used to annotate images and find existing datasets to help train our program. Our final dataset contained 6625 images. 
+#The project was done in Google Collab, as anyone in the group can access and modify the code at any time.
+#For the program to recognize the previously mentioned objects, the program had to be trained with images of the listed objects.
+#Roboflow was used to annotate images and find existing datasets to help train our program. Our final dataset contained 6625 images.
 #When the training was done, our program displayed the accuracy values of the objects; the values are listed below:
   * Pikachu:  96.3%
   * Drones:  95%
